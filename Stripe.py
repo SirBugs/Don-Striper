@@ -19,7 +19,7 @@ GREEN  = Fore.GREEN
 def CC(CC):
 
 	# // Splitting Your Data:
-	# // 5311087139741102|07|25|000
+	# // 5142300029977354|05|2023|556
 	cc, mm, yy, cvv = CC.split('|')
 
 	# // First Request: Getting Billing Info.
@@ -160,5 +160,5 @@ except:
 	print '\t {}--| {}An Error Occured With Ur File.'.format(RED, YELLOW); time.sleep(5)
 	quit()
 for Credit in Cardz:
-	# // 5311087139741102|07|25|000
+	# // 5142300029977354|05|2023|556
 	CC(Credit)

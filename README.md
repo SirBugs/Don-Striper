@@ -31,7 +31,7 @@ $ python Stripe.py
   - requests, colorama modules
 
 ### The cards Entering:
-- Enter the full url for the post(like/comment) or profile(follow/report)
+- Enter the full CC
   - 5311087139741102|07|25|100 [✔️]
   - 5311087139741102|07|2025|100 [❌]
 
@@ -49,4 +49,4 @@ $ python Stripe.py
 **Facebook:** https://facebook.com/SIRBUGS  :point_left:  
 Made with ❤️ in Egypt
 
-Programmed By SIRBUGS ❤️
+Coded By SIRBUGS ❤️
